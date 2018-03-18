@@ -15,19 +15,17 @@ Complete la tabla:
 
 | 		Integrante 			| github nick     |
 |---------------------------|-----------------|
-| Sebasstián David Moreno   | sdmorenob       |
+| Sebastián David Moreno   | sdmorenob       |
 | Cristian Camilo Orjuela   | CristianOrjuela |
 
 ## Discusión
 
 1. Complete la tabla
 
-| __Shifted grid__    |  Geométrica         |   Presentación  *Cognitive*  (Cafe Wall)                 | On click se elimina el shift| No aplica|  
-
 | Ilusión         | Categoria     | Referencia         |  Tipo de interactividad (si aplica)  | URL código base (si aplica) |
 |---------------- |---------------|--------------------|--------------------------------------|-----------------------------|
 |Efecto Estático  |Estático-Color |[Referencia1](https://decoracion.trendencias.com/iluminacion/efectos-visuales-aprovecha-los-colores)                    | No aplica                            |                             |
-|Estático-Cuadros |Estática-Inmersión|[Referencia2](https://www.wikiart.org/uk/bridzhet-rayli/movement-in-squares-1961) |                                    |  No aplica                        |                             |
+|Estático-Cuadros |Estática-Inmersión|[Referencia2](https://www.wikiart.org/uk/bridzhet-rayli/movement-in-squares-1961) |                                      No aplica                        |                             |
 |Movimiento-Bloques|Ambigua|[Referencia3](https://magnet.xataka.com/ciencia/13-ilusiones-visuales-que-haran-que-tu-cabeza-explote)|No aplica  |                                   |
 |Efecto-Movimiento|Paradógica|[Referencia4](http://new.math.uiuc.edu/public403/perspective/alberti/alberti.html)|No aplica |               |
 |Interactivo-EfectoCurvo|Interactiva-Distorción|[Referencia5](https://verne.elpais.com/verne/2016/01/27/articulo/1453897011_477533.html)|Al oprimir una tecla, dos líneas paralelas se presentan en el canvas. |               |
